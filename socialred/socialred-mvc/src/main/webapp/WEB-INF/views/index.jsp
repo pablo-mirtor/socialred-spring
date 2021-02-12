@@ -7,13 +7,20 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Socialred - index</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
 		<h2>Socialred</h2>
 		<hr />
 		<a href="<c:url value='/'/>">Inicio</a>
 		<a href="<c:url value='addPost'/>">Nuevo post</a>
-		<table>
+		<table class="table">
 				<tr>
 					<th>Id</th>
 					<th>Nombre</th>
