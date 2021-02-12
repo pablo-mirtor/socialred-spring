@@ -1,0 +1,4 @@
+org\socialred\mvc\web\PostController.class
+org\socialred\mvc\config\RootConfig.class
+org\socialred\mvc\config\WebComponents.class
+org\socialred\mvc\config\ControllerInitializer.class

@@ -1,0 +1,2 @@
+org\socialred\data\entities\Post.class
+org\socialred\data\repositories\PostRepository.class
